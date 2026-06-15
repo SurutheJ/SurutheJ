@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there, I'm Suruthe J</h1>
 
-<!--
-**SurutheJ/SurutheJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Product Manager | User-Centric Problem Solver | Outcome-Driven Decision Maker
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I believe great products start with a deep understanding of the problem.
+I'm passionate about uncovering the pain points behind user and business challenges,
+aligning stakeholders around the right opportunities, and driving outcomes that create
+meaningful value for both users and organizations.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/suruthe-j/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://suruthejayachandranportfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/SurutheJ?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:suruthejayachandran@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+🎓 MS in Information Management @ University of Illinois Urbana-Champaign
+
+I enjoy identifying the pain points behind problems before jumping to solutions. Through user research, stakeholder collaboration, and data-driven analysis, I strive to understand root causes rather than symptoms.
+
+My focus is not just on delivering features, but on driving outcomes that improve user experiences, streamline processes, and create measurable business value.
+
+## What I Care About
+
+- Understanding user needs through empathy, research, and data
+- Discovering root causes behind business and customer challenges
+- Building alignment across stakeholders and cross-functional teams
+- Making informed decisions through evidence and experimentation
+- Delivering meaningful outcomes instead of simply shipping features
+
+## Areas of Interest
+
+- Product Management
+- AI Products
+- Data Analytics
+- User Research
+- Product Strategy
+- Customer Experience
+
+## Projects
+
+Explore my repositories here:
+
+➡️ **https://github.com/SurutheJ?tab=repositories**
