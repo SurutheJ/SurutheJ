@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Suruthe J</h1>
 
 <h3 align="center">
-Product Manager | User-Centric Problem Solver | Outcome-Driven Decision Maker
+Product Manager | User-Centric Problem Solver | Data-Driven Decision Maker
 </h3>
 
 <p align="center">
