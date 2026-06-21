@@ -58,6 +58,16 @@ My focus is not just on delivering features, but on driving outcomes that improv
 
 ## Projects
 
+### 🏀 GameDayRookie
+*A basketball confidence app for complete beginners — shipped from 0 to 1*
+
+- Ran user interviews that killed my original idea and led to a sharper product: a 15 minute pre-game confidence primer built for the exact moment motivation is highest
+- Built and shipped end to end using Lovable — from discovery and PRD to a live mobile web app with 3 progressive levels, learn cards, quiz and a bottom sheet depth mechanic
+- Defined the problem as dignity not knowledge: people stay silent at games because asking for help makes them feel more exposed than not knowing
+
+`Vibe Coding` `Prompt Engineering` `PRD Writing` `User Discovery` `0 to 1 Product Building` `Mobile UX` `User Analysis` `Competitive Analysis`
+[→ View App](https://gameday-rookie.lovable.app/)
+[→ View repository](https://github.com/SurutheJ/GameDay-Rookie)
 Explore my repositories here:
 
 ➡️ **https://github.com/SurutheJ?tab=repositories**
