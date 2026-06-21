@@ -67,7 +67,7 @@ My focus is not just on delivering features, but on driving outcomes that improv
 
 `Vibe Coding` `Prompt Engineering` `PRD Writing` `User Discovery` `0 to 1 Product Building` `Mobile UX` `User Analysis` `Competitive Analysis`
 
-[→ View App](https://gameday-rookie.lovable.app/)     [→ View repository](https://github.com/SurutheJ/GameDay-Rookie)
+<a href="https://gameday-rookie.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/→ View App-E8593C?style=for-the-badge" alt="View App"></a> <a href="https://github.com/SurutheJ/GameDay-Rookie" target="_blank"><img src="https://img.shields.io/badge/→ View Repository-1A1A1A?style=for-the-badge" alt="View Repository"></a>
 
 Explore my repositories here:
 
